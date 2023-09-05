@@ -7,7 +7,8 @@ New York Stock Exchange Data ( Summary Statistics / P&amp;L Statement Dashboard 
 
 ### P&L Statement Dashboard
 
-![1](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/9489bf58-3818-4693-9bba-d9d512a47c4d)
+![pll](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/ed1b46ea-8208-4692-a857-05fd55e51765)
+
 
 ![222](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/34023942-54aa-4909-a7ab-4137c09bfc41)
 
