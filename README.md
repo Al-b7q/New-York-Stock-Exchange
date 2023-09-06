@@ -3,21 +3,24 @@ New York Stock Exchange Data ( Summary Statistics / P&amp;L Statement Dashboard 
 
 ### Summary Statistics 
 
-![2023-09-05 19_12_36-nyse_FP_2 0 xlsx - Excel](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/43a2b49a-0f96-467d-aa69-919ba4a7c7ee)
+![1](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/bd47a521-8417-4758-82f2-7b289bacba4d)
+
 
 ### P&L Statement Dashboard
 
-![pll](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/ed1b46ea-8208-4692-a857-05fd55e51765)
+![2](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/2b023f1c-7473-48e0-880f-4745eeaf1922)
 
 
-![222](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/34023942-54aa-4909-a7ab-4137c09bfc41)
+![2 1](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/edfec9ec-3c32-40d2-b6d8-fa2693a256b4)
+
 
 ### Forecast Scenarios
 
-![a](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/80e55a30-e45a-4ab9-b6ff-c225f964d351)
+![3](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/9ce4cc10-44c7-4533-b1a4-a04b0369f95e)
 
-![aaa](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/59a7a0f3-0bd2-4c3b-9342-e1814d445f63)
+![3 1](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/598224e2-d8f0-4e9f-8086-29c1dfb55140)
+
 
 ### powerpoint 
 
-![2023-09-05 19_23_55-nyse_FP_2 0 pptx - PowerPoint](https://github.com/Al-b7q/New-York-Stock-Exchange-Data/assets/144049398/f7597039-698b-4e7b-bf38-31737a4d060d)
+![4](https://github.com/Al-b7q/New-York-Stock-Exchange/assets/144049398/5175d8f1-298f-4c0d-a626-cdea942fd3ca)
